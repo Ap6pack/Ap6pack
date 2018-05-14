@@ -1,3 +1,5 @@
+// Resets page //
+
 $(document).ready(() => {
   $('#searchForm').on('submit', (e) => {
     let searchText = $('#searchText').val();
@@ -5,6 +7,8 @@ $(document).ready(() => {
     e.preventDefault();
   });
 });
+
+// Queries OMDB with api logging results in the browser //
 
 function getMovies(searchText) {
   axios.get('http://www.omdbapi.com/?s=' + searchText + '&apikey=xxxxxx')
@@ -31,11 +35,15 @@ function getMovies(searchText) {
     });
 }
 
+// Selects the movie id //
+
 function movieSelected(id) {
   sessionStorage.setItem('movieId', id);
   window.location = 'movie.html';
   return false;
 }
+
+// Using the selected movie id defiend information outputed to moive.html and is used to query additional data from IMDB.com //
 
 function getMovie() {
   let movieId = sessionStorage.getItem('movieId');
@@ -76,6 +84,9 @@ function getMovie() {
 
       $('#movie').html(output);
     })
+
+    // error handing //
+
     .catch((err) => {
       console.log(err);
     });
