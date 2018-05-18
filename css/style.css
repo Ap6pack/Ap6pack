@@ -71,12 +71,11 @@ img {
   grid-template-areas: "showcase showcase twitter";
 }
 
-/*
-.top-container #projects {
+.top-container-projects {
   grid-gap: 20px;
-  grid-template-areas: "showcase showcase twitter";
+grid-template-areas: "showcase showcase twitter";
 }
-*/
+
 
 /* Showcase */
 
