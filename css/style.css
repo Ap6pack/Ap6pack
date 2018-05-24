@@ -72,8 +72,8 @@ img {
 }
 
 .top-container-2 {
-grid-gap: 20px;
-grid-template-areas: "showcase showcase twitter";
+  grid-gap: 20px;
+  grid-template-areas: "showcase showcase twitter";
 }
 
 /* Showcase */
@@ -144,6 +144,7 @@ grid-template-areas: "showcase showcase twitter";
 
 /* Bottom Container */
 
+/*
 .infoSection {
   display: grid;
   grid-gap: 20px;
@@ -152,6 +153,7 @@ grid-template-areas: "showcase showcase twitter";
 
 /* Showcase 2 */
 
+/*
 .showcase2 {
   grid-area: showcase;
   min-height: 400px;
@@ -183,9 +185,11 @@ grid-template-areas: "showcase showcase twitter";
 
 /* Profile Cards */
 
+/*
 #linkedin-profileCard {
   margin-bottom: 20px;
 }
+*/
 
 /* Footer */
 
