@@ -1,3 +1,3 @@
 # Portfolio
 Full Stack Web Developer Portfolio
-Feel free to check out, pull, comment or ask a question. I am self-taught and this a personal project to showcase my web development and programming skill. http://www.Ap6pack.github.io/dist , this is the live website.
+Feel free to check out, pull, comment or ask a question. I am self-taught and this a personal project to showcase my web development and programming skill. This is a link to my hosted portfolio http://www.Ap6pack.github.io/dist .
