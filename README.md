@@ -6,7 +6,10 @@
 
 <h2>📄 Certifications</h2>
 
-- Need to add
+[eJPT - eLearnSecurity](https://verified.elearnsecurity.com/certificates/0db1a6a5-575d-488e-9b68-6d11e82cf5be)<br>
+[AWS Cloud 101](https://www.credly.com/badges/4a9e4c4f-3f68-4402-b8a9-e2211c31e7cf)<br>
+[Mircosoft - Introduction to Python for Data Science](https://courses.edx.org/certificates/bf8e32e7b86a48b6a4a0f423eaca02f2)<br>
+[Mircorsoft - Introduction to R Programming](https://s3.amazonaws.com/verify.edx.org/downloads/d06ee39f58f64644bd46452e34b96a30/Certificate.pdf)
 
 <h2>📺 Popular YouTube Videos</h2>
 
