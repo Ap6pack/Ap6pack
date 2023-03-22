@@ -25,7 +25,6 @@
 [linkedin]: https://linkedin.com/in/Adam-Heaton/
 [TryHackMe]: https://tryhackme.com/p/APT6pack/
 
-
 <!--
 **Ap6pack/Ap6pack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
