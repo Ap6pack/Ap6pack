@@ -1,13 +1,16 @@
 <h1>Hi, I'm Adam! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 🌱 I’m currently learning:</h2>
 
 [TCM Security - Practical Web Application Security and Testing](https://academy.tcm-sec.com/p/practical-web-application-security-and-testing)<br>
 [TCM Security - Practical Malware Analysis & Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)<br>
 [TCM Security - Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)<br>
 [APISec University - API Penetration Testing Course](https://www.apisecuniversity.com/courses/api-penetration-testing)<br>
 
-<h2>📄 Certifications</h2>
+<h2>💻 Coding Project 🔭 I’m currently working on:</h2>
+[Python - Domain Testing Tool](https://github.com/Ap6pack/PythonProjects/tree/master/DomainTool)<br>
+
+<h2>📄 Certifications:</h2>
 
 [SecureFlag - Introductory Practical Application Security With OWASP Top 10 Learning](https://secureflag.owasp.org/s?c9a2b1bf-2393-46ca-af59-8da6f7328c4f)<br>
 [SecureFlag - Introductory Front End Secure Coding Learning Path](https://secureflag.owasp.org/s?528842b2-623c-4c66-abdd-d1486549dac3)<br>
@@ -16,7 +19,7 @@
 [Mircosoft - Introduction to Python for Data Science](https://courses.edx.org/certificates/bf8e32e7b86a48b6a4a0f423eaca02f2)<br>
 [Mircorsoft - Introduction to R Programming](https://s3.amazonaws.com/verify.edx.org/downloads/d06ee39f58f64644bd46452e34b96a30/Certificate.pdf)<br>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos:</h2>
 
 - Need to add
 
@@ -37,6 +40,7 @@
 
 Here are some ideas to get you started:
 
+- 👨‍💻 Cybersecurity Projects...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
