@@ -6,6 +6,7 @@
 [TCM Security - Practical Malware Analysis & Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)<br>
 [TCM Security - Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)<br>
 [APISec University - API Penetration Testing Course](https://www.apisecuniversity.com/courses/api-penetration-testing)<br>
+[TryHackMe](https://tryhackme.com/p/APT6pack)<br>
 
 <h2>💻 Coding Project 🔭 I’m currently working on:</h2>
 
