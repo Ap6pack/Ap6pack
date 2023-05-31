@@ -10,7 +10,7 @@
 
 <h2>💻 Coding Project 🔭 I’m currently working on:</h2>
 
-[Python - Domain Testing Tool](https://github.com/Ap6pack/PythonProjects/tree/master/DomainTool/domainTool.py)<br>
+[Python - Domain Testing Tool](https://github.com/Ap6pack/PythonProjects/tree/master/DomainTool)<br>
 
 <h2>📄 Certifications:</h2>
 
