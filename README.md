@@ -17,7 +17,7 @@
 [SecureFlag - Introductory Practical Application Security With OWASP Top 10 Learning](https://secureflag.owasp.org/s?c9a2b1bf-2393-46ca-af59-8da6f7328c4f)<br>
 [SecureFlag - Introductory Front End Secure Coding Learning Path](https://secureflag.owasp.org/s?528842b2-623c-4c66-abdd-d1486549dac3)<br>
 [AWS Cloud 101](https://www.credly.com/badges/4a9e4c4f-3f68-4402-b8a9-e2211c31e7cf)<br>
-[AWS Getting Started with Storage](https://www.credly.com/earner/earned/badge/5f96f73f-1608-4a03-910b-b6b2e6226a76)<br>
+[AWS Getting Started with Storage](https://www.credly.com/badges/5f96f73f-1608-4a03-910b-b6b2e6226a76)<br>
 [eJPT - eLearnSecurity](https://verified.elearnsecurity.com/certificates/0db1a6a5-575d-488e-9b68-6d11e82cf5be)<br>
 [Mircosoft - Introduction to Python for Data Science](https://courses.edx.org/certificates/bf8e32e7b86a48b6a4a0f423eaca02f2)<br>
 [Mircorsoft - Introduction to R Programming](https://s3.amazonaws.com/verify.edx.org/downloads/d06ee39f58f64644bd46452e34b96a30/Certificate.pdf)<br>
