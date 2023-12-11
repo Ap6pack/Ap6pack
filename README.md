@@ -30,7 +30,7 @@ Ultimately, my mission aims to make a lasting impact in cybersecurity by fortify
 
 <h2>💻 Coding Project 🔭 I’m currently working on:</h2>
 
-[Python - Vulnerability Intelligence LLM](https://github.com/Ap6pack/PythonProjects/tree/master/Machine_Learning))<br>
+[Python - Machine Learning](https://github.com/Ap6pack/PythonProjects/tree/master/Machine_Learning))<br>
 
 <h2>📄 Certifications:</h2>
 
