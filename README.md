@@ -34,6 +34,8 @@ Ultimately, my mission aims to make a lasting impact in cybersecurity by fortify
 
 <h2>📄 Certifications:</h2>
 
+[APIsec University - OWASP API Security Top 10](https://www.credly.com/earner/earned/badge/9447c41c-a0cf-4729-a849-d2e4bb8762b9)<br>
+[APIsec University - API Security Fundamentals](https://www.credly.com/earner/earned/badge/22172d4a-8597-4e83-8623-5dc2b2cfbe48)<br>
 [SecureFlag - Introductory Practical Application Security With OWASP Top 10 Learning](https://secureflag.owasp.org/s?c9a2b1bf-2393-46ca-af59-8da6f7328c4f)<br>
 [SecureFlag - Introductory Front End Secure Coding Learning Path](https://secureflag.owasp.org/s?528842b2-623c-4c66-abdd-d1486549dac3)<br>
 [AWS Cloud 101](https://www.credly.com/badges/4a9e4c4f-3f68-4402-b8a9-e2211c31e7cf)<br>
