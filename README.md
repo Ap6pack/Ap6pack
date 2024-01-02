@@ -34,9 +34,10 @@ Ultimately, my mission aims to make a lasting impact in cybersecurity by fortify
 
 <h2>📄 Certifications:</h2>
 
-[APIsec University - API Security for PCI Compliance](https://www.credly.com/earner/earned/badge/eb556bb6-e9a3-4599-b56e-f73957ea6795)<br>
-[APIsec University - OWASP API Security Top 10](https://www.credly.com/earner/earned/badge/9447c41c-a0cf-4729-a849-d2e4bb8762b9)<br>
-[APIsec University - API Security Fundamentals](https://www.credly.com/earner/earned/badge/22172d4a-8597-4e83-8623-5dc2b2cfbe48)<br>
+[APIsec University - Securing API Servers](https://www.credly.com/badges/3c8bb07a-2e23-41c4-8bb5-a016f3adab33)<br>
+[APIsec University - API Security for PCI Compliance](https://www.credly.com/badges/eb556bb6-e9a3-4599-b56e-f73957ea6795)<br>
+[APIsec University - OWASP API Security Top 10](https://www.credly.com/badges/9447c41c-a0cf-4729-a849-d2e4bb8762b9)<br>
+[APIsec University - API Security Fundamentals](https://www.credly.com/badges/22172d4a-8597-4e83-8623-5dc2b2cfbe48/public_url)<br>
 [SecureFlag - Introductory Practical Application Security With OWASP Top 10 Learning](https://secureflag.owasp.org/s?c9a2b1bf-2393-46ca-af59-8da6f7328c4f)<br>
 [SecureFlag - Introductory Front End Secure Coding Learning Path](https://secureflag.owasp.org/s?528842b2-623c-4c66-abdd-d1486549dac3)<br>
 [AWS Cloud 101](https://www.credly.com/badges/4a9e4c4f-3f68-4402-b8a9-e2211c31e7cf)<br>
