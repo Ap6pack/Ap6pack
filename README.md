@@ -34,6 +34,7 @@ Ultimately, my mission aims to make a lasting impact in cybersecurity by fortify
 
 <h2>📄 Certifications:</h2>
 
+[DeepLearning.AI - Generative AI with Large Language Models](https://coursera.org/share/6fc978a26ff640736ac873852034defb)<br>
 [APIsec University - Securing API Servers](https://www.credly.com/badges/3c8bb07a-2e23-41c4-8bb5-a016f3adab33)<br>
 [APIsec University - API Security for PCI Compliance](https://www.credly.com/badges/eb556bb6-e9a3-4599-b56e-f73957ea6795)<br>
 [APIsec University - OWASP API Security Top 10](https://www.credly.com/badges/9447c41c-a0cf-4729-a849-d2e4bb8762b9)<br>
